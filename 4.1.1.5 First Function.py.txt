@@ -1,0 +1,6 @@
+def message():
+    print("Enter a value: ")
+    
+a = int(input(message()))
+b = int(input(message()))
+c = int(input(message()))
