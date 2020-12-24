@@ -1,0 +1,1 @@
+myFirstObject = TheSimplestClass()
